@@ -16,10 +16,10 @@ En resumen, este practica representa un paso fundamental en el desarrollo de alg
 
 ## PROBLEMAS
 
-1.- Calcular y mostrar en pantalla la DTG y ATG.
-2.- No mover el robot, hacer spawn del mismo en la posición Goal.
-3.- Explicar el mapeo necesario para las velocidades.
-4.- Usar un controlador (libre) para llevar a la tortuga a la posición deseada, hacerlo en bucleinfinito.
+- 1.- Calcular y mostrar en pantalla la DTG y ATG.
+- 2.- No mover el robot, hacer spawn del mismo en la posición Goal.
+- 3.- Explicar el mapeo necesario para las velocidades.
+- 4.- Usar un controlador (libre) para llevar a la tortuga a la posición deseada, hacerlo en bucleinfinito.
 
 ## CONCLUSION 
 
